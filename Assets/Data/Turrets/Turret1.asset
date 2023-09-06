@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66557ea158f7b49ed8ebca04396b66dd, type: 3}
+  m_Name: Turret1
+  m_EditorClassIdentifier: 
+  CostInShop: 50
+  Thumbnail: {fileID: 1871889577, guid: f40a23866890f476ea3ff61d8d13021a, type: 3}
+  Prefab: {fileID: 314055423443117739, guid: 43c1e2100e0764620998673aabc536c2, type: 3}
+  Damage: 25
+  AttackInterval: 1.2
+  LoadTimeInterval: 1.2
+  DamageIncrement: 2
+  AttackDelayReduction: 0.1
+  InitialUpgradeCost: 50
+  UpradeCostIcrement: 5
